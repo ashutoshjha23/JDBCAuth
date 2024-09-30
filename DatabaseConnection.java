@@ -7,7 +7,7 @@ public class DatabaseConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/user";
     private static final String USER = "user";
-    private static final String PASSWORD = "ashutosh";
+    private static final String PASSWORD = "your_password";
 
     // Private constructor to prevent instantiation
     private DatabaseConnection() {}
